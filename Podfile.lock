@@ -1,0 +1,25 @@
+PODS:
+  - A (8)
+  - A_Category (2):
+    - CTMediator
+  - CTMediator (25)
+
+DEPENDENCIES:
+  - A
+  - A_Category
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+  https://github.com/neufeng/mySpecs.git:
+    - A
+    - A_Category
+
+SPEC CHECKSUMS:
+  A: 4ba73df46170330bfbc21cf6184b2932fae3b1ee
+  A_Category: cbddd401830f9f5ae16c22f71864cef41de658c5
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+
+PODFILE CHECKSUM: 644a2dca51541ebc505f9e09a6c049664a5f72cb
+
+COCOAPODS: 1.5.3
